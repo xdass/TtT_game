@@ -1,0 +1,32 @@
+li:hover {
+  background-color: rgba(17, 140, 103, 0.3);
+  cursor: pointer;
+}
+li {
+
+  list-style-type: none;
+}
+ul {
+  padding: 0;
+  width: 250px;
+}
+span {
+  font-size: 24px;
+  font-weight: bold;
+}
+table {
+  height: 300px;
+  width: 300px;
+  border-collapse: collapse
+}
+td {
+  color: blue;
+  text-align: center;
+  width: 20px;
+  height: 20px;
+  border: 1px solid black;
+  background-color: rgba(205,205,200, 0.3)
+}
+.title {
+  margin: 10px 0 10px 0;
+}
